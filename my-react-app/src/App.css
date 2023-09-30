@@ -1,0 +1,114 @@
+/* 
+
+h1{
+  text-align: center;
+}
+table,td,th{
+  border: 2px solid grey;
+}
+#head{
+  font-weight: bold;
+}
+table{
+  margin: auto;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#set1{
+  display: inline-block;
+ 
+  
+}
+ .one{
+ position: relative;
+ left: 10px;
+}
+.two{
+  position: absolute;
+  left: 27rem;
+}
+.four{
+  position: absolute;
+  right: 10px;
+}
+.three{
+  position: absolute;
+  right: 25rem;
+}
+#set2{
+  display: inline-block;
+
+}
+.five{
+  position: absolute;
+  left: 13rem;
+  margin-top: 70px;
+}
+.six{
+  position: absolute;
+  left: 40rem;
+  margin-top: 70px;
+}
+.seven{
+  position: absolute;
+  right: 10rem;
+  margin-top: 70px;
+}
+#set3{
+  display: inline-block;
+}
+.eight{
+  position: absolute;
+  left: 27rem;
+  margin-top: 10rem;
+}
+.nine{
+  position: absolute;
+  margin-top: 10rem;
+  right: 25rem
+  ;
+}
+#set4{
+  position: absolute;
+  margin-top: 14rem;
+  left: 40rem;
+}
+button{
+  padding: 10px;
+  border: 2px solid transparent;
+  background: grey;
+  color: white;
+  border-radius: 20px;
+}
+ */
+ /* h2{
+ text-align: center;
+ font-size: xx-large;
+ }
+ button{
+ padding: 4px;
+ background: transparent;
+ color: white;
+ border: 1px solid transparent;
+
+ }
+ #btn1{
+  background-color: green;
+  margin-left: 30px;
+  border-radius: 10px;
+ }
+ #btn2{
+  background-color: red;
+  border-radius: 10px;
+  margin-left: 34rem;
+ }
+ #btn3{
+  background-color: grey;
+  float: right;
+  margin-right: 30px;
+  border-radius: 10px;
+  padding: 6px;
+ } */
+ img{
+  width:100px
+
+ }

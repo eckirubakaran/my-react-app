@@ -1,0 +1,36 @@
+table{
+    border: 2px solid black;
+    margin-top: 2rem;
+    margin-left: 18rem;
+   
+}
+#read{
+    text-align: center;
+}
+td,th{
+    border: 2px solid black;
+}
+th{
+    text-align: center;
+    padding: 5px;
+    background-color: gray;
+    color: white;
+    border-color: gray;
+}
+td{
+    text-align: center;
+    padding: 5px;
+    background-color: transparent;
+    color: royalblue;
+    border-color: transparent;
+
+
+}
+
+.form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}

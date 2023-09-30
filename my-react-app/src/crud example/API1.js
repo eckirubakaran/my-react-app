@@ -1,0 +1,1 @@
+export const API1="https://65019ca2736d26322f5c02b9.mockapi.io/reactCrud"
